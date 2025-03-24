@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Languages Used](https://github-readme-stats-talha.vercel.app/api/top-langs/?username=talhabinnasir\&layout=pie)
 
 <!--
 **TalhaBinNasir/talhabinnasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

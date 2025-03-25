@@ -45,7 +45,12 @@ When I’m not debugging (or questioning life choices during a deployment), I en
 
 ## 🔍  Connect with me
 <p>
-  
+  <a href="https://www.linkedin.com/in/talha-bin-nasir/" target="_blank">
+    <img src="https://blog.waalaxy.com/wp-content/uploads/2021/01/3-1.png" alt="LinkedIn logo" title="LinkedIn" height="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/19541205/talha-bin-nasir" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrdIbjxeE30V20HFwshvOVl50yZie4t1UfrA&s" alt="Stack Overflow logo" title="Stack Overflow" height="40" />
+  </a>
 </p>
 
 ![Languages Used](https://github-readme-stats-talha.vercel.app/api/top-langs/?username=talhabinnasir\&layout=pie&theme=radical)

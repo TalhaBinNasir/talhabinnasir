@@ -53,4 +53,4 @@ When I’m not debugging (or questioning life choices during a deployment), I en
   </a>
 </p>
 
-![Languages Used](https://github-readme-stats-talha.vercel.app/api/top-langs/?username=talhabinnasir&layout=pie&theme=radical)
+![Languages Used](https://github-readme-stats-talha.vercel.app/api/top-langs/?username=talhabinnasir&layout=pie&theme=neon)
